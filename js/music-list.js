@@ -24,7 +24,7 @@ let allMusic = [
   },
   {
     name: "be' oi",
-    artist: "ÊThôNiÔ",
+    artist: "bé hột lu",
     img: "music-3",
     src: "music-3"
   },
